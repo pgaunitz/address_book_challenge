@@ -1,0 +1,11 @@
+{
+  "name": "address_book_challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:pgaunitz/address_book_challenge.git",
+  "author": "Philip Gaunitz <fluffen@pgaunitz.se>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^3.8.3"
+  }
+}
